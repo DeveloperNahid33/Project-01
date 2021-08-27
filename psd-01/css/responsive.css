@@ -1,0 +1,270 @@
+@media (max-width:1212px) {
+    .container {
+        max-width: 100%;
+        width: 100%;
+        margin: auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        box-sizing: border-box;
+    }
+    .service_center_contant {
+        margin-left: 20px;
+    }
+}
+@media (max-width:1050px) {
+    .banner_item_contant h1 {
+        font-size: 75px;;
+    }
+    .post_title p {
+        margin-bottom: 5px;
+    }
+}
+@media (max-width:992px) {
+    .header_bottom::before {
+        display: none;
+    }
+    .header_bottom {
+        background: none;
+        min-height: auto;
+    }
+    .mean-container .mean-nav ul{
+        margin-top: 0;
+        width: 70%;
+    }
+    .mean-container .mean-nav{
+        margin-top: 0;
+    }
+    .mean-container .mean-bar {
+        float: inherit;
+        border-radius: 5px 5px 0 0;
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+        height: 26px;
+    }
+    .center_manue {
+        padding: 20px 0;
+    }
+    #slider_section {
+        padding-top: 10px;
+    }
+    .banner_item_contant h1 {
+        font-size: 40px;
+    }
+    .service_inner {
+        margin-bottom: 25px;
+    }
+    .service_center_contant {
+        margin-left: 20px;
+    }
+    .contract_items {
+        flex-wrap: wrap;
+    }
+    .contract_item_left {
+        width: 49%;
+        margin-right: 2%;
+    }
+    .contract_item_center {
+        width: 49%;
+        margin-right: 0;
+    }
+    .contract_item_midel {
+        width: 49%;
+        margin-right: 2%;
+    }
+    .contract_item_right {
+        width: 49%;
+    }
+    .post_title h4 {
+        margin-bottom: 65px;
+    }
+    .service_items {
+        flex-wrap: wrap;
+    }
+    .service_items_left {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .service_items_center {
+        width: 49%;
+        margin-right: 2%;
+    }
+    .service_items_right {
+        width: 49%;
+    }
+
+}
+@media (max-width:768px) {
+    .top_h_right {
+        width: 100%;
+        justify-content: center;
+        margin-top: 10px;
+    }
+    .top_h_left {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .mimi_manue {
+        display: block;
+    }
+    .top_h_left ul {
+        justify-content: center;
+    }
+    .header_c_right ul li a {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        font-size: 20px;
+    }
+    .header_c_right {
+        justify-content: center;
+        width: 100%;
+        margin-top: 15px;
+    }
+    .header_c_left {
+        justify-content: center;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .center_manue {
+        display: block;
+        padding: 20px 0;
+    }
+    .top_h_left ul li a {
+        padding: 0 10px;
+        font-size: 18px;
+    }
+    #slider_section {
+        padding-top: 10px;
+    }
+    .post_title p {
+        margin-bottom:5px;
+        line-height: 1.5em;
+    }
+    .post_title h4 {
+        margin-bottom: 15px;
+    }
+    .service_items_center {
+        width: 100%;
+        margin-right: 0;
+    }
+    .service_items_right {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .service_items_right h1 {
+        text-align: center;
+    }
+    .service_center_contant {
+        margin-left: 65px;
+    }
+    .service_center_logo {
+        width: 0;
+    }
+    .service_items_center h1 {
+        text-align: center;
+    }
+    .contract_item_left h1 {
+        text-align: center;
+    }
+    .contract_item_left {
+        width: 100%;    }
+    .contract_item_center h1 {
+        text-align: center;
+    }
+    .contract_item_center {
+        width: 100%;
+    }
+    .contract_item_midel h1 {
+        text-align: center;
+    }
+    .contract_item_midel {
+        width: 100%;
+    }
+    .contract_item_right h1 {
+        text-align: center;
+    }
+    .contract_item_right {
+        width: 100%;
+    }
+    .banner_items {
+        flex-wrap: wrap;
+    }
+    .banner_item_left {
+        width: 100%;
+    }
+    .banner_item_right {
+        width: 100%;
+    }
+    .banner_item_contant {
+        margin-left: 0;
+        text-align: center;
+    }
+}
+@media (max-width:425px) {
+    .top_h_left ul li a {
+        padding: 0 8px;
+        font-size: 15px;
+    }
+    .top_h_left {
+        margin-bottom: 15px;
+    }
+    .center_manue {
+        padding: 15px 0;
+    }
+    .banner_item_contant h1 {
+        font-size: 23px;
+    }
+    .banner_item_contant {
+        margin-left: 0;
+    }
+    .banner_items {
+        display: block;
+    }
+    .banner_item_left {
+        width: 100%;
+    }
+    .banner_item_right {
+        width: 100%;
+    }
+    .service_items {
+        display: block;
+    }
+    .service_items_left {
+        width: 100%;
+        margin-right: 0;
+    }
+    .service_items_center {
+        width: 100%;
+        margin-right: 0;
+        margin-top: 30px;
+    }
+    .service_items_right {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .contract_items {
+        display: block;
+    }
+    .contract_item_left {
+        width: 100%;
+        margin-right: 0;
+    }
+    .contract_item_center {
+        width: 100%;
+        margin-right: 0;
+    }
+    .contract_item_midel {
+        width: 100%;
+        margin-right: 0;
+    }
+    .contract_item_right {
+        width: 100%;
+    }
+}
+@media (max-width:358px) {
+    .top_h_left ul li a {
+        padding: 0 5px;
+        font-size: 12px;
+    }
+}
